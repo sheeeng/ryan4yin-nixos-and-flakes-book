@@ -269,7 +269,7 @@ Nixpkgs 中的模块系统提供了一系列类似 `lib.mkIf`
 ## 传递非默认参数到模块系统中 {#pass-non-default-parameters-to-the-module-system}
 
 我们在
-[传递非默认参数到模块系统中](../nixos-with-flakes/nixos-flake-and-module-system.md#pass-non-default-parameters-to-submodules)
+[Flakes 的组合能力与 Nixpkgs Module 系统](../nixos-with-flakes/nixos-flake-and-module-system.md#pass-non-default-parameters-to-submodules)
 中已经介绍了如何使用 `specialArgs` 跟 `_module.args`
 来传递额外的参数给其他 Modules 函数，这里不再赘述。
 
