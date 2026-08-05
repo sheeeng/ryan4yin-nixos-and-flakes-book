@@ -308,7 +308,7 @@ won't go into detail here.
 
 We have already introduced how to use `specialArgs` and `_module.args` to pass additional
 parameters to other Modules functions in
-[Managing Your NixOS with Flakes](../nixos-with-flakes/nixos-with-flakes-enabled.md#pass-non-default-parameters-to-submodules).
+[The combination ability of Flakes and Nixpkgs module system](../nixos-with-flakes/nixos-flake-and-module-system.md#pass-non-default-parameters-to-submodules).
 No further elaboration is needed here.
 
 ## How to Selectively Import Modules {#selectively-import-modules}
